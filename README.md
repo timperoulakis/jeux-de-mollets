@@ -41,7 +41,7 @@ $ echo rien | ruby longest_repeated_substring.rb
 
 Vérifier que votre code est assez efficient même si le texte donné est long.
 
-## Boucle de mots (# 149)
+## Affichage (en mode console) d'une boucle de mot 
  
 Voici un petit défi amusant (NDT: c'est eux qui le disent...) de l'Educational Computing Organization of Ontario. 
 
