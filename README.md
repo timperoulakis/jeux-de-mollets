@@ -16,7 +16,7 @@ autre site très intéressant pour les débutants et les moins débutants, voire
 
 Bon, allez, c'est pas tout ça mais on a encore de la route à faire, alors allons-y...  
 
-##La plus longue sous-chaîne répétée
+## La plus longue sous-chaîne répétée
 
 Ecrivez un script qui trouve la plus longue sous-chaîne d'un texte donné.
 
@@ -41,7 +41,7 @@ $ echo rien | ruby longest_repeated_substring.rb
 
 Vérifier que votre code est assez efficient même si le texte donné est long.
 
-##Boucle de mots (# 149)
+## Boucle de mots (# 149)
  
 Voici un petit défi amusant (NDT: c'est eux qui le disent...) de l'Educational Computing Organization of Ontario. 
 
@@ -117,7 +117,7 @@ No loop.
 ```
 ### Pour les anglophones
 
-##Longest Repeated Substring (#153)  
+## Longest Repeated Substring (#153)  
 
 This week's Ruby Quiz is to write a script that finds the longest repeated substring in a given text.
 
@@ -136,8 +136,9 @@ na
 
 Make sure your code runs efficiently when passed a large text.
 
-##Word Loop (#149)
+## Word Loop (#149)
 Here's a fun little challenge from the Educational Computing Organization of Ontario.
+
 
 Given a single word as input try to find a repeated letter inside of it such that you can loop the text around and reuse 
 that letter. For example:
