@@ -24,7 +24,7 @@ class LongestRepeatedSubstringTest < Minitest::Test
 
   def test_middle_with_quote_string
     input = "alors, ça, ça s'arrose car dans cette phrase on ne dit pas allo, meme si cela rase mais pourtant le test doit passer tant pis pour les arroseurs arroses"
-    assert_equal( 'arrose', LongestRepeatedSubstring.longest_repeated_substring(input))
+    assert_equal( 's arrose', LongestRepeatedSubstring.longest_repeated_substring(input))
   end
 
   def test_kitue_string
